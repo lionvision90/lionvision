@@ -3733,6 +3733,9 @@ body {
     width: auto;
     height: 100%
 }
+.pic img {
+    border-radius: 16px;
+}
 
 .part .partCon {
     padding: 0 33px
